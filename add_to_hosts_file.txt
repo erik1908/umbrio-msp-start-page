@@ -7,7 +7,6 @@
 127.0.0.1  msp-surfsoc-sh3
 127.0.0.1  msp-uvahva-cm
 127.0.0.1  msp-uvahva-shuva
-127.0.0.1  msp-uvahva-shhva
 127.0.0.1  msp-uvahva-ds
 127.0.0.1  msp-uvahva-hfw1
 127.0.0.1  msp-uvahva-hfw2
